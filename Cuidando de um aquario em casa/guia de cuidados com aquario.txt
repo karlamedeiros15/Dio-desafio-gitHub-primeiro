@@ -1,7 +1,3 @@
-# Desafio de projeto sobre Git/GitHub (meu primeiro repositório)
-
-### _Repositório criado para o desafio da DIO_
-
 # Como ter um aquário em casa
 
 #### Dicas de como ter e cuidar de um aquário em casa.
@@ -13,7 +9,7 @@
  - Água salobra (_brackish_);
  - Água salgada (_marinho_)
 
-_*Dentro deste três tipos de água existem inúmeros tipos de montagens que você poderá se deparar.*_
+OBS: _*Dentro deste três tipos de água existem inúmeros tipos de montagens que você poderá se deparar.*_
 
 
 ## Quais tipos de material de aquários existem?
@@ -34,7 +30,7 @@ _*Dentro deste três tipos de água existem inúmeros tipos de montagens que voc
  8. De quanto em quanto tempo devo trocar a água e lavar o aquário?
 
 
-_*Esses são só alguns dos primeiros passos para se ter um quário em casa.*_
+OBS: _*Esses são só alguns dos primeiros passos para se ter um quário em casa.*_
  
 
 # P R E P A R A Ç Ã O 
@@ -47,5 +43,4 @@ _*Esses são só alguns dos primeiros passos para se ter um quário em casa.*_
  - Colocar os peixes no aquário (_com cuidado para não jogar de qualquer forma_)
 
 
-_*Verifique sempre a temperatura da água e acidez para manter seus peixes vivos e saudáveis.*_
-
+OBS: _*Verifique sempre a temperatura da água e acidez para manter seus peixes vivos e saudáveis.*
