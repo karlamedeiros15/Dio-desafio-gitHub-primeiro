@@ -39,12 +39,12 @@ _*Esses são só alguns dos primeiros passos para se ter um quário em casa.*_
 
 # P R E P A R A Ç Ã O 
 
- - Local onde você ira colocar o aquário;
- - Verificar se há iluminação solar de forma direta (_caso tenha, procure um lugar com menor intensidade_);
- - Escolher um móvel bom onde irá colocar o aquário (_pois após inserir todos os elemntos ficará bem pesado_);
- - Montar o aquário (_água,decoração, iluminação, filtro, areia, etc;
- - Deixar o aquário circulando por pelo menos 7 dias (_para em seguida colocar os primeiros peixes_);
- - Colocar os peixes no aquário (_com cuidado para não jogar de qualquer forma_)
+ - [x] Local onde você ira colocar o aquário;
+ - [x] Verificar se há iluminação solar de forma direta (_caso tenha, procure um lugar com menor intensidade_);
+ - [x] Escolher um móvel bom onde irá colocar o aquário (_pois após inserir todos os elemntos ficará bem pesado_);
+ - [x] Montar o aquário (_água,decoração, iluminação, filtro, areia, etc;
+ - [x] Deixar o aquário circulando por pelo menos 7 dias (_para em seguida colocar os primeiros peixes_);
+ - [x] Colocar os peixes no aquário (_com cuidado para não jogar de qualquer forma_)
 
 
 _*Verifique sempre a temperatura da água e acidez para manter seus peixes vivos e saudáveis.*_
