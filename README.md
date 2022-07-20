@@ -2,7 +2,7 @@
 
 ### _Repositório criado para o desafio da DIO_
 
-# Como ter um aquário em casa
+# Como ter um aquário em casa :fish: 
 
 #### Dicas de como ter e cuidar de um aquário em casa.
 
@@ -22,7 +22,7 @@ _*Dentro deste três tipos de água existem inúmeros tipos de montagens que voc
  - Aquário de vidro
 
 
-# I N S T R U Ç Õ E S
+# I N S T R U Ç Õ E S 
 
  1. Qual tipo de aquário vou escolher?
  2. Qual material do aquário vou escolher?
@@ -37,7 +37,7 @@ _*Dentro deste três tipos de água existem inúmeros tipos de montagens que voc
 _*Esses são só alguns dos primeiros passos para se ter um quário em casa.*_
  
 
-# P R E P A R A Ç Ã O 
+# P R E P A R A Ç Ã O :white_check_mark:
 
  - [x] Local onde você ira colocar o aquário;
  - [x] Verificar se há iluminação solar de forma direta (_caso tenha, procure um lugar com menor intensidade_);
@@ -47,5 +47,5 @@ _*Esses são só alguns dos primeiros passos para se ter um quário em casa.*_
  - [x] Colocar os peixes no aquário (_com cuidado para não jogar de qualquer forma_)
 
 
-_*Verifique sempre a temperatura da água e acidez para manter seus peixes vivos e saudáveis.*_
+_*Verifique sempre a temperatura da água e acidez para manter seus peixes vivos e saudáveis.*_ :fish: :tropical_fish: 
 
