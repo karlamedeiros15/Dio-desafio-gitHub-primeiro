@@ -34,18 +34,19 @@ _*Dentro deste três tipos de água existem inúmeros tipos de montagens que voc
  8. De quanto em quanto tempo devo trocar a água e lavar o aquário?
 
 
-_*Esses são só alguns dos primeiros passos para se ter um quário em casa.*_
+_*Esses são só alguns dos primeiros passos para se ter um aquário em casa.*_
  
 
 # P R E P A R A Ç Ã O :white_check_mark:
 
  - [x] Local onde você ira colocar o aquário;
  - [x] Verificar se há iluminação solar de forma direta (_caso tenha, procure um lugar com menor intensidade_);
- - [x] Escolher um móvel bom onde irá colocar o aquário (_pois após inserir todos os elemntos ficará bem pesado_);
- - [x] Montar o aquário (_água,decoração, iluminação, filtro, areia, etc;
+ - [x] Escolher um móvel bom onde irá colocar o aquário (_pois após inserir todos os elementos ficará bem pesado_);
+ - [x] Montar o aquário (_água, decoração, iluminação, filtro, areia, etc;
  - [x] Deixar o aquário circulando por pelo menos 7 dias (_para em seguida colocar os primeiros peixes_);
  - [x] Colocar os peixes no aquário (_com cuidado para não jogar de qualquer forma_)
 
 
-_*Verifique sempre a temperatura da água e acidez para manter seus peixes vivos e saudáveis.*_ :fish: :tropical_fish: 
+_*Verifique sempre a temperatura da água e acidez para manter seus peixes vivos e saudáveis.*_ :fish: :tropical_fish:
+
 
